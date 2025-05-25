@@ -44,3 +44,5 @@ To run this project locally, follow these steps:
 You can replace `Sayantax-code` in the `git clone` link with your actual GitHub username. This README will give clear instructions and context for your Solar System simulation project.
 
    git clone https://github.com/yourusername/solar-system-simulation.git
+   Developer : sayantan Mondal
+   
